@@ -1,0 +1,7 @@
+1) https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04
+2) https://github.com/RoverWire/virtualhost
+3) http://www.cyberciti.biz/tips/howto-write-shell-script-to-add-user.html
+4) https://stackoverflow.com/questions/24270733/automate-mysql-secure-installation-with-echo-command-via-a-shell-script/35004940
+5) https://stackoverflow.com/questions/34916074/how-to-pass-password-from-file-to-mysql-command/54492728
+6) https://linuxize.com/post/how-to-install-php-8-on-ubuntu-20-04/
+7) https://computingforgeeks.com/how-to-install-latest-phpmyadmin-on-ubuntu-debian/
